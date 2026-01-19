@@ -6,4 +6,4 @@
 - task3_grade_calculator.py
 
 ### Screenshot Output
-![Task 3 Output](screenshots/task3_output.png)
+![Task 3 Output](output.png)
